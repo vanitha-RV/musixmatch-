@@ -1,0 +1,95 @@
+*
+{
+    margin:0;padding:0 ;
+}
+
+nav{
+display: flex;
+justify-content: space-between
+
+
+}    
+nav ul {
+    display: flex;
+    justify-content:space-between;
+    width:50%;
+    align-items: center;
+}
+nav ul li{
+    list-style-type:none;
+    cursor: pointer;
+    
+}
+ul li{
+    list-style-type: none;
+    
+}
+
+nav ul li:hover{
+    color: rgb(255, 0, 128);
+
+    
+}
+
+li button{
+    background-color: black;
+    color: white;
+    padding:5px;
+    border-radius:14px ;
+
+}
+.mid-sec
+
+{
+ background-color:gray and rgb(163, 158, 158);
+ margin-left: 100px
+ ;
+ margin-top: 100px;
+}
+.mid-sec h1{
+    font-size:100px;
+    background-color: gray;
+    
+}
+.subdiv-1,.subdiv-2,.subdiv-3,.subdiv-4{
+ display:flex;
+ align-items: center;
+ justify-content:center
+ ;
+ 
+ 
+ 
+ 
+}
+
+  .main-div
+
+   {
+    display: flex;
+    justify-content:space-between; 
+    align-items:center;
+    
+   }
+   
+   .phonemodel-pic
+   {
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+   }
+   .phonemodel-pic button
+   {
+    border-top-left-radius:60;
+    border-top-right-radius:60;
+    border- bottom -left- radius 60px;
+    border-bottom-right-radius: 60;
+       }
+   
+
+   
+   
+
+
+   
+    
+    
